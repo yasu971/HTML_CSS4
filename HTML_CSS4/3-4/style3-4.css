@@ -19,7 +19,19 @@ header{
     width: 500px;
     background-color: lightblue;
   }
+
+  .list{
+    list-style: none;
+  }
+
+  .lists{
+    width: 300px;
+  }
   
+  .featured{
+    background-color: yellow;
+  }
+    
   footer{
     height: 50px;
     width: 80%;
