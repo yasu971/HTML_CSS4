@@ -18,7 +18,12 @@ header{
     height: 300px;
     background-color: lightgreen;
    }
-   
+
+   .left-image{
+    width: 300px;
+    height: 300px;
+   }
+      
    .center-content{
     width: 300px;
     height: 300px;
